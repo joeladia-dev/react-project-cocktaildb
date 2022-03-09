@@ -132,7 +132,7 @@ Navbar
 ======
 */
 .navbar {
-  background: #f4f4f6;
+  background: var(--mainWhite);
   height: 5rem;
   display: flex;
   align-items: center;
